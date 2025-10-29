@@ -1,0 +1,36 @@
+Terms of Service for Encore Cleaner Bot
+
+Welcome to Encore Cleaner, a Discord bot designed to automatically moderate and detect scam images in your server. By inviting or using the Encore Cleaner in your Discord server, you agree to be bound by these Terms of Service. If you do not agree to these Terms, do not use the Bot.
+1. Acceptance of Terms
+These Terms constitute a legal agreement between you and the developer of the Bot. The Bot is provided "as is" without warranties of any kind. Your use of the Bot signifies your acceptance of these Terms and any future modifications.
+2. Description of Service
+The Bot scans messages with image attachments in your Discord server for potential scam content, such as fake Elon Musk giveaway images. If detected, it may delete the message, ban the user, save a local backup of the images for review, and send a notification. The Bot operates using local tools like Tesseract OCR and does not rely on external APIs unless explicitly configured otherwise.
+3. Eligibility
+You must be at least 13 years old (or the minimum age required in your jurisdiction) to use the Bot. By using the Bot, you represent that you meet this requirement and have the authority to add it to your server.
+4. User Responsibilities
+
+Compliance: You agree to use the Bot in compliance with Discord's Terms of Service, Community Guidelines, and all applicable laws.
+Configuration: As the Server Owner, you are responsible for properly configuring the Bot, including permissions for reading messages, deleting content, and banning users.
+Prohibited Use: You may not:
+
+Use the Bot for illegal activities, harassment, or spam.
+Modify, reverse-engineer, or distribute the Bot's code without permission.
+Overload the Bot or use it in a way that disrupts Discord services.
+
+
+Backup and Review: The Bot saves images from flagged messages locally on your hosting device for potential false positive reviews. You are responsible for managing these files securely and in compliance with data protection laws.
+
+5. Moderation Actions
+The Bot may automatically delete messages and ban users based on detected scam patterns. These actions are not guaranteed to be 100% accurate, and false positives may occur. The Developer is not liable for any bans, deletions, or server disruptions. If banned, users will receive a DM with appeal instructions (if DMs are enabled).
+6. Intellectual Property
+The Bot and its code are owned by the Developer. You are granted a limited, non-exclusive license to use the Bot in your server. You may not claim ownership or resell the Bot.
+7. Disclaimer of Warranties
+The Bot is provided "AS IS" and "AS AVAILABLE" without warranties, express or implied, including but not limited to fitness for a particular purpose or non-infringement. The Developer does not guarantee the Bot will be error-free, secure, or always available.
+8. Limitation of Liability
+To the fullest extent permitted by law, the Developer shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Bot, including loss of data, server bans, or disputes. Your sole remedy is to stop using the Bot.
+9. Indemnification
+You agree to indemnify and hold harmless the Developer from any claims, damages, or expenses arising from your use of the Bot, including violations of these Terms or third-party rights.
+10. Changes to the Terms
+The Developer reserves the right to modify these Terms at any time. Continued use of the Bot after changes constitutes acceptance of the updated Terms.
+11. Termination
+The Developer may terminate or suspend the Bot's access at any time without notice. You may remove the Bot from your server at any time.
