@@ -1,0 +1,40 @@
+Privacy Policy for Encore Cleaner
+
+This Privacy Policy explains how the Encore Cleaner Bot collects, uses, and protects information when you use it in your Discord server. By using the Bot, you consent to the practices described here.
+1. Information We Collect
+The Bot processes limited data to function as a moderator:
+
+Message Content: Image attachments from messages are temporarily downloaded and analyzed using local OCR tools to detect scam patterns. Text extracted from images is not stored long-term.
+User Information: Usernames, user IDs, and message metadata from flagged messages.
+Backup Data: If a scam is detected, images are saved locally on your hosting device in a timestamped folder with the username for review purposes. No data is sent to external servers.
+
+The Bot does not collect personal information like emails, IP addresses, or payment details. All processing occurs on your local machine or hosting environment.
+2. How We Use Your Information
+
+Moderation: To scan for and act on scam images.
+Backup and Review: Local image backups are created solely for reviewing potential false positives. These are stored on your device and not accessed by the Developer.
+Notifications: The Bot may send DMs to banned users with appeal instructions, including a link to a contact form.
+
+We do not use data for marketing, analytics, or any purpose beyond moderation.
+3. Data Sharing and Disclosure
+
+The Bot does not share any data with third parties, including the Developer.
+Data remains on your local device. If you host the Bot on a cloud service (e.g., VPS), you are responsible for that provider's privacy practices.
+We may disclose data if required by law or to protect rights, but only as necessary.
+
+4. Data Storage and Security
+
+Backups are stored locally in folders on your device. You control access and deletion.
+We use reasonable measures to protect data, but no system is 100% secure. You are responsible for securing your hosting environment.
+Data is retained only as long as needed for moderation.
+
+5. Your Rights
+
+Access and Deletion: As data is local, you can access or delete backups directly from your device.
+Appeals: Banned users can appeal via the provided contact method.
+Opt-Out: Server Owners can remove the Bot at any time to stop processing.
+
+6. Children's Privacy
+The Bot is not intended for children under 13. We do not knowingly collect data from minors.
+7. Changes to This Policy
+We may update this Privacy Policy. Changes will be posted here, and continued use constitutes acceptance.
